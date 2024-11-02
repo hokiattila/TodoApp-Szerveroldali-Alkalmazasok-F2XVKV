@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hokia\\Desktop\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|c:\\users\\hokia\\desktop\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F172A-78BC-419A-8FC2-16EFBE6D64E1}|TodoApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:25:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "Models\\TodoItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:21:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAcwH0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:19:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:17:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:17:16.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:16:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\TodoApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\TodoApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:03:24.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
